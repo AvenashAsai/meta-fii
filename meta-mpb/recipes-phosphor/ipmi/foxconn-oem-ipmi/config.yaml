@@ -1,0 +1,10 @@
+interface: xyz.openbmc_project.Control.FanPwm
+fans:
+  - fan1_0
+  - fan1_1
+  - fan2_0
+  - fan2_1
+  - fan3_0
+  - fan3_1
+  - fan4_0
+  - fan4_1
