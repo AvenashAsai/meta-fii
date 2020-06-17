@@ -1,4 +1,5 @@
 interface: xyz.openbmc_project.Control.FanPwm
+service_hash: /sys/devices/platform/ahb/ahb:apb/1e786000.pwm-tacho-controller/ahb/apb/pwm-tacho-controller@1e786000
 fans:
   - fan1_0
   - fan1_1
